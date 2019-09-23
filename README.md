@@ -46,11 +46,9 @@ It classifies if patients have heart disease or not according to the features pr
 ## **Model, Training and Testing**
 # Confusion Metrics
 
-<img src="https://user-images.githubusercontent.com/55571522/65414053-7bd65d80-de10-11e9-964a-77df03a5cc0f.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/55571522/65414053-7bd65d80-de10-11e9-964a-77df03a5cc0f.png" width="400" height="400">
 
 # ROC Curcve
-<img src="https://user-images.githubusercontent.com/55571522/65414362-2b133480-de11-11e9-9654-202bae4111de.png" width="200" height="200">
-<img src="https://user-images.githubusercontent.com/55571522/65414394-39615080-de11-11e9-8930-307dd0f16030.png" width="200" height="200">
-<img src="https://user-images.githubusercontent.com/55571522/65414410-454d1280-de11-11e9-99ff-2a8373ff89b5.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/55571522/65414362-2b133480-de11-11e9-9654-202bae4111de.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/55571522/65414394-39615080-de11-11e9-8930-307dd0f16030.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/55571522/65414410-454d1280-de11-11e9-99ff-2a8373ff89b5.png" width="300" height="300">
 
 
